@@ -1,4 +1,4 @@
-#include "main.h"
+	#include "main.h"
 
 /**
 *main - function prints text as output
@@ -18,4 +18,3 @@ int main(void)
 	_putchar(10);
 	return (0);
 }
-      	
