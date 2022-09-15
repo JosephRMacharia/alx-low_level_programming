@@ -1,1 +1,1 @@
-this is a debugging class
+This program prints the largest of three integers
