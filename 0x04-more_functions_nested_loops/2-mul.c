@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
-* _isupper -> this is a function to check upper case alphas
-* @c: an integer paramer
-* Return: something but success
+* mul -> multiplying 2 numbers
+* @a: interger param1
+* @b: integer param 2
+* Return: success and intiger
 */
-int _isupper(int c)
+
+int mul(int a, int b)
 {
-	return (c >= 'A' && c <= 'Z');
+	return (a * b);
 }
